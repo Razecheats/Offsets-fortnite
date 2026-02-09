@@ -13,4 +13,4 @@
 
 
 ## Contact Me
-My discord: Felixbln030  My Dc Server: https://discord.gg/rRxjDrX5fR
+My discord: @Felixbln030  My Dc Server: https://discord.com/invite/rRxjDrX5fR
