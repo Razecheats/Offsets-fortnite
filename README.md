@@ -48,7 +48,6 @@
 
 - ✔️ Updated offsets for latest Fortnite version
 - ✔️ Clean & organized structure
-- ✔️ Unreal Engine based
 - ✔️ Easy to integrate
 - ✔️ Beginner-friendly
 - ✔️ Actively maintained
@@ -88,7 +87,7 @@ Every bit of support helps ❤️
 
 ---
 
-## 📞 Contact Me
+## 📞 Contact Me For Help Open a Ticket
 
 **Discord User Profile:**  
 [@Felixbln030](https://discord.com/users/1413982527219171441)
