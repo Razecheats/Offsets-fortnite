@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Game-Fortnite-blue">
   <img src="https://img.shields.io/badge/Version-v39.40-green">
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey">
-  <img src="https://img.shields.io/badge/Status-In%20Operation-success">
+  <img src="https://img.shields.io/badge/Status-%20Working-success">
   <img src="https://img.shields.io/badge/Purpose-Educational%20Only-red">
 </p>
 
