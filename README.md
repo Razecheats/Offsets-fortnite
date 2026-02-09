@@ -87,7 +87,7 @@ Every bit of support helps ❤️
 
 ---
 
-## 📞 Contact Me For Help Open a Ticket
+## 📞 Contact Me, For Help Open a Ticket
 
 **Discord User Profile:**  
 [@Felixbln030](https://discord.com/users/1413982527219171441)
