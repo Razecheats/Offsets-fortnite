@@ -1,0 +1,108 @@
+// Current Patch: v39.40
+// Offsets from discord.gg/rRxjDrX5fR
+
+    // ===== Globals =====
+    UWorld = 0x177E8AA8; // updated: 0x178685D8 -> 0x177E8AA8
+    UWorldXorKey = 0xFFFFFFFF3CE5AF17; // updated: 0xFFFFFFFF30B9BBF9 -> 0xFFFFFFFF3CE5AF17
+    UWorldXorRotationCount = 0; // (simple exponent : no ror8 this update)
+    GNames = 0x17722E80;
+    GEngine = 0x177EA398; // updated: 0x17869ED8 -> 0x177EA398
+    GObjects = 0x17780278; // updated: 0x177FFDB0 -> 0x17780278
+    GObjectsCount = 0x17780268; // updated: 0x177FFDC0 -> 0x17780268
+    uintptr_t StaticFindObject = 0x7AABFD; // updated: 0x72B449 -> 0x7AABFD
+    uintptr_t StaticLoadObject = 0xB7BEAB; // updated: 0x96DC19 -> 0xB7BEAB
+
+    ProcessEvent = 0x26474; // updated: 0x84B9A -> 0x26474
+    ProcessEventIndex = 0x178;
+    DrawTransition = 0x54DFCC; // updated: 0x5243F6 -> 0x54DFCC
+    DrawTransitionIndex = 111;
+    BoneMatrix = 0x504A62; // updated: 0x56464C -> 0x504A62
+
+    // ===== Player / Controller =====
+    LocalPlayers = 0x38;
+    PlayerController = 0x30;
+    PlayerCameraManager = 0x368; // updated: 0x360 -> 0x368
+    AcknowledgedPawn = 0x358;
+    PlayerState = 0x2D0;
+    NetConnection = 0x528;
+    TeamIndex = 0x11B1;
+    bIsDying = 0x728;
+    bIsDBNO = 0x841;
+    bIsABot = 0x2BA;
+
+    Platform = 0x440;
+    TargetedFortPawn = 0x1830;
+    KillScore = 0x11C8;
+    RebootCount = 0x1894;
+    PlayerName = 0xA08;
+    PlayerNamePrivate = 0x348;
+    RankedProgress = 0xD8;
+    PlayerAimOffset = 0x2BD0;
+
+    // ===== World =====
+    OwningGameInstance = 0x240; // updated: 0x248 -> 0x240
+    GameState = 0x1C8; // updated: 0x1D0 -> 0x1C8
+    PlayerArray = 0x2C8;
+    WorldSettings = 0x2B8;
+    WorldGravityZ = 0x330;
+    WorldToMeters = 0x320;
+
+    PersistentLevel = 0x40;
+    Levels = 0x1E0; // updated: 0x1E8 -> 0x1E0
+
+    // ===== Actor / Pawn =====
+     AActor = 0x130; // updated: 0x208 -> 0x130
+     RootComponent = 0x1B0;
+     PawnPrivate = 0x328;
+     MoveIgnoreActors = 0x348;
+
+    // ===== Mesh / Components =====
+    Mesh = 0x330;
+    BoneArray = 0x5F0;
+    BoneCache = 0x600;
+    MeshDeformerInstances = 0x5C0;
+
+    ComponentToWorld = 0x1E0;
+    RelativeLocation = 0x140;
+    RelativeRotation = 0x158;
+    RelativeScale3D = 0x170;
+    ComponentVelocity = 0x188;
+    AdditionalAimOffset = 0x2BA0;
+    LastRenderTime = 0x328;
+    LocationUnderReticle = 0x2A50;
+
+    // ===== Camera =====
+    CameraLocation = 0x178; // updated: 0x170 -> 0x178
+    CameraRotation = 0x188; // updated: 0x180 -> 0x188
+    CameraFOV = 0x3B4;
+
+    // ===== Vehicles =====
+    CurrentVehicle = 0x2C68;
+
+    // ===== Weapons =====
+    CurrentWeapon = 0x990;
+    WeaponData = 0x5F8; // updated: 0x5A0 -> 0x5F8
+    WeaponOffsetCorrection = 0x2C00;
+    AmmoCount = 0x1184; // updated: 0x14FC -> 0x1184
+    bIsReloadingWeapon = 0x3A1; // updated: 0x3D1 -> 0x3A1
+    ReloadAnimation = 0x19D0; // updated: 0x19C8 -> 0x19D0
+    LWProjectile_ActivateRemovedTimestamp = 0x29C0; // updated: 0x29F8 -> 0x29C0
+
+    ProjectileSpeed = 0x2564; // updated: 0x24AC -> 0x2564
+    ProjectileGravity = 0x2568; // updated: 0x24B0 -> 0x2568
+    MaxTargetingAimAdjustPerSecond = 0x2330; // updated: 0x2418 -> 0x2330
+    ServerWorldTimeSecondsDelta = 0x2E8;
+
+    LastFireTimeVerified = 0x10D8; // updated: 0x1430 -> 0x10D8
+    WeaponCoreAnimation = 0x1A50; // updated: 0x1A58 -> 0x1A50
+
+    // ===== Items / Loot =====
+    PrimaryPickupItemEntry = 0x3A8;
+    ItemName = 0xB0;
+    ItemType = 0xA8;
+    PrimaryAssetOverride = 0xA9;
+    ItemRarity = 0xAA;
+    bAlreadySearched = 0xD52;
+
+    // ===== Misc =====
+    HabaneroComponent = 0x948;
