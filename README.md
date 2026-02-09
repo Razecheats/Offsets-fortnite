@@ -20,7 +20,7 @@
 | **Game Version** | Fortnite v39.40 |
 | **Platform** | Windows |
 | **Engine** | Unreal Engine |
-| **Repository Status** | 🟢 In Operation |
+| **Offsets Status** | 🟢 Newest |
 | **Maintenance** | Actively Updated |
 
 ---
